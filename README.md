@@ -3,17 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarsh-rajgit&label=Profile%20views&color=0e75b6&style=flat" alt="akarsh-rajgit" /> </p>
 
-- 🔭 I’m currently working on [AJS Enterprises Data Base](https://github.com/Akarsh-Rajgit/AJS-db)
+-  I’m currently working on [AJS Enterprises Database (https://github.com/Akarsh-Rajgit/AJS-db)]
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+-  I've completed an internship at Infosys 
 
-- 📈 I'm also Interested in **Finance** and the **Stock Market**
+-  I’m currently learning **Machine Learning, Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akarsh-Rajgit](https://github.com/Akarsh-Rajgit)
+-  I have also indulged myself in an **IoT** project (https://github.com/Akarsh-Rajgit/mc) 
 
-- 💬 Ask me about **C/C++, Python, Web Development, SQL, PostgreSQL**
+-  I'm also Interested in **Finance** and the **Stock Market**
 
-- 📫 How to reach me **akarshraj2510@gmail.com**
+-  All of my projects are available at [https://github.com/Akarsh-Rajgit](https://github.com/Akarsh-Rajgit)
+
+-  Ask me about **C/C++, Python, Web Development, SQL, PostgreSQL**
+
+-  How to reach me **akarshraj2510@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
