@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**
 
+- 📈 I'm also Interested in **Finance** and the **Stock Market**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Akarsh-Rajgit](https://github.com/Akarsh-Rajgit)
 
-- 💬 Ask me about **C/C++, Python, Web Development, SQL, Postgre SQL**
+- 💬 Ask me about **C/C++, Python, Web Development, SQL, PostgreSQL**
 
 - 📫 How to reach me **akarshraj2510@gmail.com**
 
