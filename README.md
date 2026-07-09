@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarsh-rajgit&label=Profile%20views&color=0e75b6&style=flat" alt="akarsh-rajgit" /> </p>
 
--  I’m currently working on [AJS Enterprises Database (https://github.com/Akarsh-Rajgit/AJS-db)]
-
 -  I've completed an internship at Infosys 
 
 -  I’m currently learning **Machine Learning, Data Science**
