@@ -9,7 +9,7 @@
 
 -  I have also indulged myself in an **IoT** project (https://github.com/Akarsh-Rajgit/mc) 
 
--  I'm also Interested in **Finance** and the **Stock Market** [https://github.com/Akarsh-Rajgit/finance_web] [https://finance-web-aygh.onrender.com/]
+-  I'm also Interested in **Finance** and the **Stock Market** [https://github.com/Akarsh-Rajgit/finance_web] 
 
 -  All of my projects are available at [https://github.com/Akarsh-Rajgit](https://github.com/Akarsh-Rajgit)
 
